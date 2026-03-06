@@ -52,7 +52,7 @@ This project helps you understand:
 
 ## Author
 
-Your Name - [GitHub Profile](https://github.com/YOUR_USERNAME)  
+Your Name - [GitHub Profile](https://github.com/sudaiskhan1122)  
 
 ---
 
